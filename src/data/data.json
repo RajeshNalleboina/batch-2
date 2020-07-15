@@ -1,0 +1,26 @@
+{
+    "profiles":[
+        {
+            "basic":{
+                "name":"SaiRam D",
+                "role":"S Developer",
+                "phone":"7989034758",
+                "email":"sairam.d@apssdc.in"
+            },
+            "career":"I want to become a SE"
+            
+        },
+        {
+            "basic":{
+                "name":"Gayathri Mam",
+                "role":"SE",
+                "phone":"7567373942",
+                "email":"gayathridevi.v@apssdc.in"
+
+            },
+            "career":"I want to become a CEO"
+
+
+        }
+    ]
+}
